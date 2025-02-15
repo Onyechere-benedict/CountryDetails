@@ -1,19 +1,19 @@
-# Welcome to Select Your Country - Mobile App For Country👋
+# Country Details 
 
-This is an app that allows you to select a country and see certain information about selected country.
+This is an app that allows you to see list of country and select any of the country inorder to view information about the country you have selected.
 
 ## Get started
 
 1. Clone the git repository
 
 
-git clone https://github.com/Noah-V/SelectYourCountryHNG3.git
+git clone  https://github.com/Onyechere-benedict/CountryDetails
 ```
 
 2. Enter the clone git repository
 
 
-cd "SelectYourCountryHNG3"
+cd "CountryDetails"
 ```
 
 3. Install dependencies
